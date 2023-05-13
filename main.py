@@ -5,6 +5,7 @@ from keyboard import is_pressed
 
 system("cls")
 def kierunek():
+    #test
     wartosc=0
     global direction
     print("Podaj kierunek...")
